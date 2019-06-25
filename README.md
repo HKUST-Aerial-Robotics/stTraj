@@ -11,7 +11,7 @@ we propose a novel motion planning framework for quadrotor teach-and-repeat appl
 This is research code, any fitness for a particular purpose is disclaimed.
 
 **Related Paper**
-* **Optimal Trajectory Generation for Quadrotor Teach-and-Repeat**, Fei Gao, Luqi Wang, Kaixuan Wang, William Wu, Boyu Zhou, Luxin Han, and Shaojie Shen, **IEEE Robotics and Automation Letters (RA-L)** (2019), 4(2), 1493-1500.
+* **Optimal Trajectory Generation for Quadrotor Teach-and-Repeat**, Fei Gao, Luqi Wang, Kaixuan Wang, William Wu, Boyu Zhou, Luxin Han, and Shaojie Shen, **IEEE Robotics and Automation Letters (RA-L)**, 4(2), 1493-1500, 2019.
 
 Video of this paper can be found at:
 
