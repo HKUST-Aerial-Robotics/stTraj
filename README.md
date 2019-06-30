@@ -34,9 +34,8 @@ If you use this planning framework for your academic research, please cite our r
 ```
 ## 2. Updates
 
-We have advanced our Teach-and-Repeat system as a complete and robust **Teach-Repeat-Replan** system which can deal with changing environments, moving obstacls and imperfect localization. We are cleanning our code and will release all components (global/local perception, global/local planning, global/local state estimation and onboard controller) soon at:
-https://github.com/HKUST-Aerial-Robotics/uavTeachRepeatReplan
+We have advanced our Teach-and-Repeat system as a complete and robust **Teach-Repeat-Replan** system which can deal with changing environments, moving obstacls and imperfect localization, and with all necessary components for an autonomous drone (global/local perception, global/local planning, global/local state estimation and onboard controller). 
 
-We promise to release our code by the end of June, 2019
+The code has been released, please check:[**Teach-Repeat-Replan**] (https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
 
 The **Teach-Repeat-Replan** system contains all functionalities of this repo. Any further questions can be raised at that repo. Thanks.
